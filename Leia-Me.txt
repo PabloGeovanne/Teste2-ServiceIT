@@ -1,0 +1,2 @@
+Sistema de Estoque em PHP está em 50% pretendo finalizar até o fim do dia.
+Obrigado!
