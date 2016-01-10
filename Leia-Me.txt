@@ -1,1 +1,6 @@
-Sistema de Estoque em PHP est� no inicio pretendo finalizar at� o fim do dia.
+Ja passou do prazo estipulado 09/01 não foi possivel finalizar o sitema de estoque;
+tudo que foi desenvolvido segue abaixo com detalhes.
+
+*Banco de dados com as tabelas (Categoria, Produtos, Clientes, Pedido)
+*Desenvolvimento do sistema de inclusão de categoria (Funcionando Porem não mostra após incluir)
+*Utilização do style Bootstrap (foi pouco usado)
