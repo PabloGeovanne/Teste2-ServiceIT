@@ -4,3 +4,5 @@ tudo que foi desenvolvido segue abaixo com detalhes.
 *Banco de dados com as tabelas (Categoria, Produtos, Clientes, Pedido)
 *Desenvolvimento do sistema de inclusão de categoria (Funcionando Porem não mostra após incluir)
 *Utilização do style Bootstrap (foi pouco usado)
+
+Como o sistema não foi finalizado o layout não foi integrado para wordpress
